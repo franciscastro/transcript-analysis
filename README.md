@@ -25,8 +25,8 @@ The prompts are added here for documentation purposes.
 > 
 > 1 <br />
 > 00:00:00.070 --> 00:00:01.070 <br />
-> Hazel Marshall: Sounds good. 
+> John Doe: Sounds good. 
 > 
 > 2 <br />
 > 00:00:02.530 --> 00:00:07.360 <br />
-> Hazel Marshall: Oh, thank goodness that time it worked. Okay, so… Now.
+> Jane Doe: Oh, thank goodness that time it worked. Okay, so… Now.
